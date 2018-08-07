@@ -1,0 +1,37 @@
+Source,Destination,Lead Time (in Days)
+DC - Kolkata Metropolitan Area,Howrah Depot,7.0
+DC - Kolkata Metropolitan Area,Kolkata Depot,3.0
+DC - Kolkata Metropolitan Area,Chandannagore Depot,9.0
+DC - Kolkata Metropolitan Area,Hugli Depot,15.0
+DC - Kolkata Metropolitan Area,Nadia Depot,18.0
+DC - Kolkata Metropolitan Area,North 24 Parganas Depot,12.0
+Howrah Depot,Kolkata Depot,3.0
+Howrah Depot,Chandannagore Depot,5.0
+Howrah Depot,Hugli Depot,4.0
+Howrah Depot,Nadia Depot,6.0
+Howrah Depot,North 24 Parganas Depot,4.0
+Kolkata Depot,Chandannagore Depot,7.0
+Kolkata Depot,Hugli Depot,6.0
+Kolkata Depot,Nadia Depot,5.0
+Kolkata Depot,North 24 Parganas Depot,6.0
+Kolkata Depot,Howrah Depot,5.0
+Chandannagore Depot,Hugli Depot,7.0
+Chandannagore Depot,Nadia Depot,4.0
+Chandannagore Depot,North 24 Parganas Depot,5.0
+Chandannagore Depot,Howrah Depot,4.0
+Chandannagore Depot,Kolkata Depot,4.0
+Hugli Depot,Nadia Depot,5.0
+Hugli Depot,North 24 Parganas Depot,6.0
+Hugli Depot,Howrah Depot,4.0
+Hugli Depot,Kolkata Depot,7.0
+Hugli Depot,Chandannagore Depot,4.0
+North 24 Parganas Depot,Howrah Depot,4.0
+North 24 Parganas Depot,Kolkata Depot,6.0
+North 24 Parganas Depot,Chandannagore Depot,4.0
+North 24 Parganas Depot,Nadia Depot,7.0
+North 24 Parganas Depot,Hugli Depot,7.0
+Nadia Depot,North 24 Parganas Depot,6.0
+Nadia Depot,Howrah Depot,4.0
+Nadia Depot,Kolkata Depot,4.0
+Nadia Depot,Chandannagore Depot,4.0
+Nadia Depot,Hugli Depot,6.0

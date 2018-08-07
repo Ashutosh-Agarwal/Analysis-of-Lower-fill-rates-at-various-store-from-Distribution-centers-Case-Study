@@ -1,0 +1,196 @@
+System Date,Purchase Category,SKU,Vendor,Vendor Lead Time (in Days),AVAILABLE STOCK,UoM,STOCK VALUE,Purchase Order count in last two weeks,Total Purchase Order qty raised,PO Fill rate for last 2 weeks,Last Good Receipt Note (GRN) date at DC,Last GRN qty at DC,Days since last GRN at DC
+6/8/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1038,Litres,93420,0,0,97%,6/3/2016,1661,5
+6/7/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1300,Litres,117000,0,0,100%,6/1/2016,1162,6
+6/6/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1299,Litres,116910,0,0,99%,5/31/2016,1133,6
+6/5/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1212,Litres,109080,0,0,98%,6/1/2016,1114,4
+6/4/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1306,Litres,117540,1,1865,97%,6/1/2016,1571,3
+6/3/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1095,Litres,98550,0,0,95%,5/29/2016,1767,5
+6/2/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1136,Litres,102240,0,0,100%,5/28/2016,1793,5
+6/1/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1021,Litres,91890,0,0,95%,5/27/2016,1367,5
+5/31/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1181,Litres,106290,0,0,98%,5/26/2016,1597,5
+5/30/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1215,Litres,109350,0,0,98%,5/25/2016,1669,5
+5/29/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,940,Litres,84600,1,1342,97%,5/26/2016,1765,3
+5/28/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1050,Litres,94500,1,1500,95%,5/23/2016,1199,5
+5/27/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1041,Litres,93690,0,0,96%,5/22/2016,1697,5
+5/26/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,962,Litres,86580,0,0,100%,5/20/2016,1433,6
+5/25/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1168,Litres,105120,1,1668,95%,5/20/2016,1766,5
+5/24/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1081,Litres,97290,0,0,98%,5/20/2016,1193,4
+5/23/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1086,Litres,97740,0,0,98%,5/19/2016,1430,4
+5/22/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1360,Litres,122400,0,0,95%,5/18/2016,1729,4
+5/21/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1269,Litres,114210,1,1812,100%,5/18/2016,1271,3
+5/20/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1083,Litres,97470,0,0,98%,5/17/2016,1231,3
+5/19/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1308,Litres,117720,0,0,95%,5/16/2016,1194,3
+5/18/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1005,Litres,90450,1,1435,99%,5/13/2016,1504,5
+5/17/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1118,Litres,100620,1,1597,98%,5/12/2016,1272,5
+5/16/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1119,Litres,100710,0,0,98%,5/13/2016,1168,3
+5/15/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1017,Litres,91530,0,0,97%,5/12/2016,1175,3
+5/14/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1127,Litres,101430,1,1610,98%,5/9/2016,1755,5
+5/13/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,972,Litres,87480,0,0,100%,5/9/2016,1338,4
+5/12/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1144,Litres,102960,0,0,99%,5/9/2016,1575,3
+5/11/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1290,Litres,116100,0,0,100%,5/5/2016,1666,6
+5/10/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1153,Litres,103770,0,0,100%,5/5/2016,1496,5
+5/9/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1209,Litres,108810,0,0,97%,5/3/2016,1550,6
+5/8/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1250,Litres,112500,0,0,99%,5/4/2016,1543,4
+5/7/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1144,Litres,102960,0,0,97%,5/4/2016,1423,3
+5/6/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1244,Litres,111960,1,1777,95%,4/30/2016,1469,6
+5/5/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1284,Litres,115560,0,0,97%,5/2/2016,1412,3
+5/4/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1056,Litres,95040,1,1508,97%,4/28/2016,1776,6
+5/3/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1312,Litres,118080,0,0,98%,4/28/2016,1327,5
+5/2/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1006,Litres,90540,0,0,99%,4/29/2016,1214,3
+5/1/2016,Beverages,Natural Sour Apple Cocktail 3.2 litres,Tasty Fresh Juices,6,1094,Litres,98460,0,0,100%,4/28/2016,1131,3
+6/8/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1232,Kgs,739200,1,1760,95%,6/4/2016,1300,4
+6/7/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1044,Kgs,626400,1,1491,100%,6/2/2016,1170,5
+6/6/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1042,Kgs,625200,0,0,95%,6/2/2016,1354,4
+6/5/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,991,Kgs,594600,0,0,95%,5/31/2016,1525,5
+6/4/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1077,Kgs,646200,0,0,96%,5/30/2016,1647,5
+6/3/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,957,Kgs,574200,1,1367,95%,5/31/2016,1473,3
+6/2/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1249,Kgs,749400,1,1784,96%,5/29/2016,1679,4
+6/1/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1249,Kgs,749400,0,0,100%,5/27/2016,1793,5
+5/31/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1255,Kgs,753000,0,0,99%,5/26/2016,1598,5
+5/30/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1201,Kgs,720600,1,1715,95%,5/25/2016,1133,5
+5/29/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1146,Kgs,687600,1,1637,97%,5/26/2016,1789,3
+5/28/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,957,Kgs,574200,1,1367,96%,5/25/2016,1565,3
+5/27/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1216,Kgs,729600,1,1737,100%,5/23/2016,1746,4
+5/26/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,987,Kgs,592200,0,0,99%,5/23/2016,1167,3
+5/25/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1297,Kgs,778200,1,1852,97%,5/22/2016,1548,3
+5/24/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1387,Kgs,832200,0,0,95%,5/20/2016,1680,4
+5/23/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1215,Kgs,729000,1,1735,96%,5/19/2016,1684,4
+5/22/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1094,Kgs,656400,1,1562,95%,5/18/2016,1664,4
+5/21/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1141,Kgs,684600,1,1630,97%,5/17/2016,1149,4
+5/20/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1353,Kgs,811800,1,1932,96%,5/15/2016,1144,5
+5/19/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1241,Kgs,744600,1,1772,97%,5/14/2016,1129,5
+5/18/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1212,Kgs,727200,0,0,97%,5/12/2016,1651,6
+5/17/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1140,Kgs,684000,0,0,96%,5/14/2016,1452,3
+5/16/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1276,Kgs,765600,1,1822,99%,5/11/2016,1308,5
+5/15/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1005,Kgs,603000,0,0,99%,5/10/2016,1250,5
+5/14/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1248,Kgs,748800,0,0,96%,5/10/2016,1792,4
+5/13/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1134,Kgs,680400,1,1620,95%,5/7/2016,1129,6
+5/12/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1278,Kgs,766800,1,1825,98%,5/9/2016,1684,3
+5/11/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1181,Kgs,708600,0,0,95%,5/8/2016,1720,3
+5/10/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1324,Kgs,794400,0,0,98%,5/5/2016,1314,5
+5/9/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1155,Kgs,693000,0,0,96%,5/4/2016,1555,5
+5/8/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1155,Kgs,693000,1,1650,100%,5/5/2016,1496,3
+5/7/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,922,Kgs,553200,1,1317,95%,5/4/2016,1464,3
+5/6/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,959,Kgs,575400,1,1370,95%,5/1/2016,1596,5
+5/5/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1082,Kgs,649200,1,1545,99%,4/30/2016,1111,5
+5/4/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1168,Kgs,700800,0,0,96%,4/29/2016,1491,5
+5/3/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1342,Kgs,805200,0,0,99%,4/29/2016,1416,4
+5/2/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1230,Kgs,738000,1,1757,97%,4/28/2016,1610,4
+5/1/2016,Packaged Food,Penne with Roasted Vegetables 4.5 kg,Quick & Easy Foods,5,1045,Kgs,627000,1,1492,95%,4/26/2016,1282,5
+6/8/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1128,Kgs,84600,1,1611,100%,6/3/2016,1258,5
+6/7/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,941,Kgs,70575,1,1344,96%,6/3/2016,1276,4
+6/6/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1223,Kgs,91725,1,1747,99%,6/2/2016,1467,4
+6/5/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1088,Kgs,81600,0,0,99%,6/2/2016,1586,3
+6/4/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,987,Kgs,74025,1,1410,95%,5/30/2016,1305,5
+6/3/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1107,Kgs,83025,0,0,98%,5/31/2016,1583,3
+6/2/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1234,Kgs,92550,1,1762,97%,5/30/2016,1243,3
+6/1/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,930,Kgs,69750,1,1328,96%,5/27/2016,1763,5
+5/31/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1218,Kgs,91350,0,0,99%,5/25/2016,1127,6
+5/30/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1372,Kgs,102900,1,1960,97%,5/25/2016,1445,5
+5/29/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1120,Kgs,84000,0,0,95%,5/25/2016,1434,4
+5/28/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1348,Kgs,101100,0,0,96%,5/23/2016,1427,5
+5/27/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1087,Kgs,81525,0,0,100%,5/21/2016,1455,6
+5/26/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1194,Kgs,89550,1,1705,96%,5/22/2016,1513,4
+5/25/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1180,Kgs,88500,1,1685,100%,5/20/2016,1156,5
+5/24/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1326,Kgs,99450,1,1894,97%,5/18/2016,1135,6
+5/23/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1062,Kgs,79650,0,0,95%,5/19/2016,1382,4
+5/22/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1212,Kgs,90900,1,1731,97%,5/16/2016,1498,6
+5/21/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1257,Kgs,94275,1,1795,96%,5/16/2016,1766,5
+5/20/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1234,Kgs,92550,0,0,99%,5/15/2016,1249,5
+5/19/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,950,Kgs,71250,1,1357,100%,5/13/2016,1515,6
+5/18/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1080,Kgs,81000,0,0,98%,5/12/2016,1387,6
+5/17/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,977,Kgs,73275,0,0,99%,5/12/2016,1515,5
+5/16/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1253,Kgs,93975,1,1790,100%,5/11/2016,1749,5
+5/15/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1116,Kgs,83700,0,0,99%,5/9/2016,1186,6
+5/14/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,947,Kgs,71025,1,1352,98%,5/9/2016,1676,5
+5/13/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1068,Kgs,80100,1,1525,97%,5/10/2016,1318,3
+5/12/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1021,Kgs,76575,1,1458,98%,5/7/2016,1788,5
+5/11/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1020,Kgs,76500,1,1457,99%,5/7/2016,1206,4
+5/10/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1276,Kgs,95700,0,0,95%,5/5/2016,1534,5
+5/9/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1117,Kgs,83775,0,0,96%,5/4/2016,1684,5
+5/8/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1190,Kgs,89250,1,1700,98%,5/5/2016,1141,3
+5/7/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1333,Kgs,99975,1,1904,98%,5/4/2016,1564,3
+5/6/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1026,Kgs,76950,1,1465,100%,4/30/2016,1425,6
+5/5/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1314,Kgs,98550,1,1877,96%,4/29/2016,1163,6
+5/4/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,984,Kgs,73800,0,0,97%,4/29/2016,1378,5
+5/3/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1178,Kgs,88350,0,0,99%,4/28/2016,1799,5
+5/2/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,1211,Kgs,90825,0,0,99%,4/26/2016,1711,6
+5/1/2016,Groceries,Pinapple Chunk 8 kg,ABC Vendor,7,963,Kgs,72225,1,1375,95%,4/26/2016,1489,5
+6/8/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1305,Kgs,261000,0,0,97%,6/2/2016,1539,6
+6/7/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1076,Kgs,215200,1,1537,100%,6/1/2016,1139,6
+6/6/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1118,Kgs,223600,1,1597,96%,5/31/2016,1763,6
+6/5/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,951,Kgs,190200,0,0,95%,5/30/2016,1239,6
+6/4/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1095,Kgs,219000,0,0,100%,6/1/2016,1155,3
+6/3/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1169,Kgs,233800,1,1670,99%,5/31/2016,1274,3
+6/2/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,976,Kgs,195200,1,1394,95%,5/27/2016,1689,6
+6/1/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1205,Kgs,241000,0,0,98%,5/27/2016,1754,5
+5/31/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1285,Kgs,257000,1,1835,97%,5/27/2016,1608,4
+5/30/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1145,Kgs,229000,0,0,96%,5/24/2016,1191,6
+5/29/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1128,Kgs,225600,1,1611,96%,5/25/2016,1268,4
+5/28/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1302,Kgs,260400,0,0,98%,5/25/2016,1252,3
+5/27/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1069,Kgs,213800,1,1527,98%,5/21/2016,1411,6
+5/26/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1095,Kgs,219000,1,1564,100%,5/20/2016,1569,6
+5/25/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1040,Kgs,208000,1,1485,100%,5/20/2016,1566,5
+5/24/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1299,Kgs,259800,1,1855,96%,5/20/2016,1455,4
+5/23/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1127,Kgs,225400,1,1610,99%,5/18/2016,1493,5
+5/22/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1038,Kgs,207600,1,1482,97%,5/19/2016,1244,3
+5/21/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1327,Kgs,265400,0,0,95%,5/16/2016,1195,5
+5/20/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1297,Kgs,259400,1,1852,97%,5/17/2016,1579,3
+5/19/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1095,Kgs,219000,0,0,100%,5/14/2016,1129,5
+5/18/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1195,Kgs,239000,1,1707,100%,5/14/2016,1145,4
+5/17/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,961,Kgs,192200,0,0,96%,5/13/2016,1668,4
+5/16/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,908,Kgs,181600,1,1297,98%,5/11/2016,1191,5
+5/15/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1002,Kgs,200400,0,0,99%,5/11/2016,1329,4
+5/14/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1065,Kgs,213000,0,0,98%,5/9/2016,1374,5
+5/13/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1087,Kgs,217400,0,0,97%,5/8/2016,1301,5
+5/12/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,952,Kgs,190400,1,1360,97%,5/9/2016,1734,3
+5/11/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1291,Kgs,258200,0,0,98%,5/8/2016,1367,3
+5/10/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1106,Kgs,221200,0,0,97%,5/6/2016,1786,4
+5/9/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1133,Kgs,226600,0,0,98%,5/6/2016,1127,3
+5/8/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1209,Kgs,241800,0,0,100%,5/5/2016,1207,3
+5/7/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1141,Kgs,228200,0,0,98%,5/3/2016,1523,4
+5/6/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,965,Kgs,193000,0,0,95%,4/30/2016,1108,6
+5/5/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1305,Kgs,261000,1,1864,97%,5/1/2016,1573,4
+5/4/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1243,Kgs,248600,1,1775,98%,5/1/2016,1741,3
+5/3/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1341,Kgs,268200,1,1915,96%,4/27/2016,1347,6
+5/2/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1118,Kgs,223600,0,0,97%,4/28/2016,1237,4
+5/1/2016,Groceries,Sugar 5 kg,ZXC Refinery,4,1199,Kgs,239800,0,0,96%,4/28/2016,1555,3
+6/8/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,941,ml,1091560,1,1344,96%,6/2/2016,1587,6
+6/7/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,969,ml,1124040,0,0,100%,6/2/2016,1787,5
+6/6/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,972,ml,1127520,1,1388,100%,6/1/2016,1193,5
+6/5/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1140,ml,1322400,1,1628,97%,6/1/2016,1107,4
+6/4/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1114,ml,1292240,1,1591,97%,5/30/2016,1411,5
+6/3/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1123,ml,1302680,1,1604,97%,5/29/2016,1241,5
+6/2/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1347,ml,1562520,1,1924,96%,5/30/2016,1465,3
+6/1/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1219,ml,1414040,0,0,95%,5/26/2016,1309,6
+5/31/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,984,ml,1141440,1,1405,96%,5/25/2016,1468,6
+5/30/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1167,ml,1353720,1,1667,99%,5/25/2016,1657,5
+5/29/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1213,ml,1407080,1,1732,95%,5/23/2016,1178,6
+5/28/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1260,ml,1461600,1,1800,99%,5/24/2016,1288,4
+5/27/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1040,ml,1206400,1,1485,99%,5/21/2016,1189,6
+5/26/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1293,ml,1499880,1,1847,100%,5/20/2016,1747,6
+5/25/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,932,ml,1081120,1,1331,99%,5/19/2016,1597,6
+5/24/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1138,ml,1320080,0,0,97%,5/19/2016,1787,5
+5/23/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1121,ml,1300360,0,0,96%,5/19/2016,1468,4
+5/22/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1048,ml,1215680,0,0,96%,5/16/2016,1355,6
+5/21/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1169,ml,1356040,1,1670,96%,5/15/2016,1158,6
+5/20/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1195,ml,1386200,0,0,97%,5/14/2016,1119,6
+5/19/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1065,ml,1235400,0,0,97%,5/14/2016,1800,5
+5/18/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1173,ml,1360680,0,0,98%,5/12/2016,1731,6
+5/17/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1276,ml,1480160,1,1822,99%,5/13/2016,1747,4
+5/16/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1218,ml,1412880,0,0,100%,5/11/2016,1547,5
+5/15/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,950,ml,1102000,0,0,98%,5/12/2016,1105,3
+5/14/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1167,ml,1353720,1,1667,98%,5/9/2016,1752,5
+5/13/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1273,ml,1476680,0,0,95%,5/9/2016,1781,4
+5/12/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1099,ml,1274840,1,1570,96%,5/7/2016,1296,5
+5/11/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1116,ml,1294560,1,1594,97%,5/8/2016,1665,3
+5/10/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1330,ml,1542800,0,0,96%,5/7/2016,1634,3
+5/9/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1311,ml,1520760,0,0,98%,5/6/2016,1442,3
+5/8/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1296,ml,1503360,0,0,96%,5/2/2016,1408,6
+5/7/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1187,ml,1376920,1,1695,96%,5/1/2016,1630,6
+5/6/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1180,ml,1368800,1,1685,95%,5/1/2016,1621,5
+5/5/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,931,ml,1079960,0,0,99%,5/2/2016,1170,3
+5/4/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1039,ml,1205240,0,0,95%,4/30/2016,1544,4
+5/3/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1354,ml,1570640,0,0,96%,4/29/2016,1495,4
+5/2/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,949,ml,1100840,1,1355,100%,4/29/2016,1707,3
+5/1/2016,Wine & Liquor,Vintage 12 Yr Old 700ml,The 18th Century Blenders,8,1074,ml,1245840,1,1534,98%,4/28/2016,1562,3
